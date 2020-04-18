@@ -25,7 +25,9 @@
 
     <build>
         <finalName>${project.artifactId}</finalName>
-        <sourceDirectory>src</sourceDirectory>
+        <sourceDirectory>src/main/java</sourceDirectory>
+        <testSourceDirectory>src/main/test</testSourceDirectory>
+
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
