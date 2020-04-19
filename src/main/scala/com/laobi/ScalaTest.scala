@@ -29,4 +29,11 @@ object ScalaTest {
 
   }
 
+  def test(): Unit = {
+    println("ajklsfjasjdkl")
+  }
+
+  def master1: Unit = {
+    println("master")
+  }
 }
