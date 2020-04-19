@@ -24,6 +24,7 @@ object ScalaTest {
 
     println("test scala15")
     println("test scala16")
+    println("test scala17")
 
 
   }
