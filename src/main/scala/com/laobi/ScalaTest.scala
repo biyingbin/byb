@@ -9,7 +9,6 @@ object ScalaTest {
     println("test scala")
     println("test scala")
 
-
   }
 
 }
