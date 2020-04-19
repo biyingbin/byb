@@ -10,6 +10,7 @@ object ScalaTest {
     println("test scala4")
     println("test scala5")
     println("test scala6")
+    println("test scala7")
 
   }
 
