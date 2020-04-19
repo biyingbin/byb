@@ -22,6 +22,9 @@ object ScalaTest {
     if(true)
       println("test scala14")
 
+    println("test scala15")
+    println("test scala16")
+
 
   }
 
