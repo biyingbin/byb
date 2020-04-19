@@ -12,6 +12,8 @@ object ScalaTest {
     println("test scala5")
     println("test scala5")
     println("test scala5")
+
+    ScalaTest2.main(null)
     if(true)
       println("test scala6")
     println("test scala6")
@@ -34,6 +36,7 @@ object ScalaTest {
     println("test scala15")
     println("test scala16")
     println("test scala17")
+
 
 
   }
