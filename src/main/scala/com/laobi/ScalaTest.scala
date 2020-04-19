@@ -5,13 +5,9 @@ object ScalaTest {
   def main(args: Array[String]): Unit = {
 
     println("test scala1")
-    println("test scala2")
-    println("test scala3")
-    println("test scala4")
     println("test scala5")
-    println("test scala5")
-    println("test scala5")
-    println("test scala6")
+    if(true)
+      println("test scala6")
     println("test scala7")
     println("test scala8")
     println("test scala9")
@@ -19,7 +15,8 @@ object ScalaTest {
     println("test scala11")
     println("test scala12")
     println("test scala13")
-    println("test scala14")
+    if(true)
+      println("test scala14")
 
 
   }
